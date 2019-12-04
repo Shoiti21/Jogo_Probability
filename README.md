@@ -1,3 +1,5 @@
+**JOGO ESTÁ RODANDO SOMENTE NO NAVEGADOR EDGE**
+
 **Unknow Studio é um estudio fictício do grupo.**
 
 Nosso primeiro jogo produzido para fins académicos.
