@@ -40,7 +40,7 @@ Smaug.Menu.prototype = {
         game.time.events.add(1000,this.start,this);
     },
     start: function () {
-        game.state.start('Stage4_gerador');
+        game.state.start('Intro');
     },
     menufundo:function(){
         fundo.animations.play('fundo_efeito');
