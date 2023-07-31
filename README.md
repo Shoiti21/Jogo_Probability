@@ -1,11 +1,13 @@
-**JOGO ESTÁ RODANDO SOMENTE NO NAVEGADOR EDGE**
+<img src="./probability.gif" alt="background" title="background">
+
+** JOGO ESTÁ RODANDO SOMENTE NO NAVEGADOR EDGE **
 
 **Unknow Studio é um estudio fictício do grupo.**
 
 Nosso primeiro jogo produzido para fins académicos.
 Feito por **Leandro Shoiti** (Programador e Game Design), **Aldo Mendonça** (Level Design, Design Grafico, Artista e Sonoplasta), **Luiz Fernando** (Compositor Musical) e **Pedro Henrique** (Roteirista).
 
-**AGRADECIMENTOS**
+### AGRADECIMENTOS
 
 Aos professores da FATEC de Carapicuíba por todo apoio, incentivo, paciência e pela excelência da qualidade técnica de cada um nesse semestre letivo. Obrigado por me manter motivado durante todo o processo.
 
